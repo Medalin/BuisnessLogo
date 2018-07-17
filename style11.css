@@ -1,0 +1,51 @@
+body, .btn-bs-pagination {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 13px;
+    text-align: inherit;
+    text-transform: inherit;
+    color: #7b7b7b;
+}
+
+body {
+    font: 14px/1.7 Lato,sans-serif;
+    color: #5f6569;
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    font-size-adjust: auto;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+html {
+    font-size: 10px;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+}
+.fotorama__wrap, html {
+    -webkit-text-size-adjust: 100%;
+}
+.fotorama__arr, .fotorama__fullscreen-icon, .fotorama__nav, .fotorama__nav__frame, .fotorama__nav__shaft, .fotorama__stage__frame, .fotorama__stage__shaft, .fotorama__video-close, .fotorama__video-play, html {
+    -webkit-tap-highlight-color: transparent;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+::selection {
+    background: #0080ce;
+}
+::selection {
+    color: #fff;
+    text-shadow: none;

@@ -1,0 +1,102 @@
+body
+{
+	margin: 0 auto;
+}
+.wrapper
+{
+	width: 1024px;
+	height: auto;
+	text-align: center;
+	display: table-cell;
+	margin: 0 auto;
+}
+/**************************** Header Section Starts ***************************/
+.header
+{
+	width: 1024px;
+	height: 146px;
+    background: url(../images/header.jpg);
+    background-repeat: no-repeat;
+
+}
+/**************************** Second Section Ends *****************************/
+
+/**************************** Menu Section Starts *****************************/
+.menu
+{
+	width: 1024px;
+	height: 44px;
+    background: url(../images/menu.jpg);
+    background-repeat: no-repeat;
+}
+
+.menu-text
+{
+font-family: verdana;
+font-size: 14px;
+color: white;
+padding: 12px 45px 10px 10px;
+float: left;
+font-stretch: condensed;
+cursor: pointer;
+}
+a.nav:link {color: #ffffff; text-decoration: none; }
+a.nav:visited {color: #ffffff; text-decoration: none; }
+a.nav:hover {color: #ffff99; text-decoration: underline; }
+a.nav:active {color: blue; }
+.paragraphe{
+	font-family: Tahoma;
+  font-size: 13pt;
+  font-weight: normal;
+  color: #616161;
+  text-align: justify;
+  width: 770px;
+  float:left;
+  margin-left:45px; 
+  line-height: 30px;
+  margin: 30px;
+  }
+ .paragraphe-secondaire{
+ font-family: Tahoma;
+  font-size: 13pt;
+  font-weight: normal;
+  margin:auto;
+  text-align: justify;
+  color: #616161;
+  width:480px;
+  line-height: 30px;
+  
+ }
+ .espace{
+ 	width:10px;
+ }
+ .partie-centrale{
+ 	display:inline-block;
+ 	width:1145px;
+ 	height:300px; 	 
+ } 
+ .footer
+{
+  float: right;
+  width: 900px;
+  font-family: Tahoma;
+  font-size: 8pt;
+  font-weight: normal;
+  color: #616161;
+  text-align: left;
+  margin-top: 18px;
+  clear: both;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+#slider{
+  border:10px solid white;}
+ 
+button{
+    
+    background: #1070A0;
+    color:white;
+    margin:20px;
+  
+  }
+  
